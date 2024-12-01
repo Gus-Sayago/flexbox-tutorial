@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    background-color: grey;
+    padding: 5px;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.container div{
+    background-color: khaki;
+    margin: 5px;
+    padding: 10px;
+    height: 100px;
+    align-items: center;
+    line-height: 100px;
+}
